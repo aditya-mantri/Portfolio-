@@ -10,7 +10,7 @@ const About = () =>{
                 <div  className="header">
                     <h1>About Me</h1>
                 </div>
-                <p>Hello! I'm Aditya Mantri, an aspiring Software Engineer based in Maharastra, India.<br/>⠀</p>
+                <p>Hello! I'm Aditya Mantri, an aspiring Software Engineer based in Maharashtra, India.<br/>⠀</p>
                 <p>Currently I'm in my Final Year at <a className="school"href="http://www.mnnit.ac.in/" target="_blank" rel="noreferrer">Motilal Nehru National Institute of Technology, Allahabad</a>. 
                     When I'm not coding or studying you'll find me curled up between painting, dancing, travelling or filmography. 
                 <br/>⠀

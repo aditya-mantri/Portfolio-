@@ -45,8 +45,7 @@
     @media only screen and (min-width:1200px){/*larger than 800px*/
         .avatar{
             float:right;
-        
-            transform:translate(0px,-100%);
+            transform: translate(0px,-180%);
         }
         .text{
             width:500px;
